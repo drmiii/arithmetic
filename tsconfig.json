@@ -1,0 +1,37 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "baseUrl": "./",
+    "forceConsistentCasingInFileNames": true,
+    "lib": [
+      "ES2018",
+      "DOM",
+      "WebWorker.ImportScripts",
+      "ScriptHost",
+      "DOM.Iterable"
+    ],
+    "module": "None",
+    "noEmitOnError": true,
+    "noErrorTruncation": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "paths": {
+      "~/*": [ "*" ]
+    },
+    "preserveWatchOutput": true,
+    "removeComments": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES2018",
+    "types": [
+    ],
+    "typeRoots": [
+    ]
+  },
+  "exclude": [
+    "node_modules",
+    "Scripts/velonic",
+    "wwwroot"
+  ]
+}

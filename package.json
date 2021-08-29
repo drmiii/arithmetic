@@ -1,0 +1,16 @@
+{
+  "name": "arithmetic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "author": "",
+  "license": "",
+  "scripts": {
+    "sass": "sass --watch styles:styles",
+    "typescript": "tsc --watch"
+  },
+  "dependencies": {
+    "sass": "1.38.2",
+    "typescript": "4.4.2"
+  }
+}
